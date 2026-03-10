@@ -64,7 +64,11 @@ Data visualizations:
 
 
 💻 How to Use the App
-Access the live app here: http://192.168.1.16:8501/
+Access the live app here: http://192.168.1.16:8501
+
+
+<img width="738" height="851" alt="image" src="https://github.com/user-attachments/assets/7c788b4e-a9fc-44ce-9299-60f04552a5e4" />
+
 
 Select the Transaction Type.
 

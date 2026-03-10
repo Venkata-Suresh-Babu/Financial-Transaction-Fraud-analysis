@@ -42,6 +42,9 @@ Performance: The model maintains a high accuracy rate while minimizing "False Po
 
 Data visualizations:
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0633ed0d-69b3-4240-8b49-517649080326" />
+
+
 <img width="691" height="531" alt="image" src="https://github.com/user-attachments/assets/7404fe0d-1ed1-46fc-898a-d77b7bf5e125" />
 
 

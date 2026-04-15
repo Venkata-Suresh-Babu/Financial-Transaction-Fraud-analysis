@@ -1,12 +1,15 @@
-🛡️ Financial Fraud Detection System
+# 🛡️ Financial Fraud Detection System
 An End-to-End Machine Learning Solution for Real-Time Risk Assessment
 
-📋 Project Summary
+# Application link
+https://financial-transaction-fraud-analysis-feyj8rzy2fepapnkmva9hm.streamlit.app/
+
+# 📋 Project Summary
 In the modern financial landscape, fraudulent transactions account for billions in annual losses. This project provides a scalable, automated solution to identify suspicious activity within massive datasets.
 
 Using a dataset of over 6.3 million transactions, I developed a machine learning model that successfully identifies fraud with 94% accuracy. The project moves beyond static analysis by providing a live, interactive dashboard where stakeholders can input transaction data to receive an instant risk assessment.
 
-🚀 Key Features
+# 🚀 Key Features
 Predictive Intelligence: Leverages a Logistic Regression model optimized for "needle-in-a-haystack" detection in imbalanced data.
 
 Automated Pipeline: Integrated Scikit-Learn pipelines ensure that raw data is scaled and encoded instantly without manual intervention.
@@ -15,7 +18,7 @@ Stakeholder Dashboard: A Streamlit-powered interface designed for non-technical 
 
 Scalability: Tested on millions of records to ensure high performance and low latency during inference.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Language: Python 3.11
 
 Modeling: Scikit-Learn (Pipelines, Logistic Regression, Standard Scaler)
@@ -28,7 +31,7 @@ App Framework: Streamlit
 
 Deployment: Streamlit Cloud / GitHub
 
-📊 Methodology & Performance:
+# 📊 Methodology & Performance:
 
 
 Identifying fraud is challenging because 99.8% of transactions are legitimate. To solve this, I implemented:
@@ -40,7 +43,7 @@ Feature Selection: Analyzed transaction types, focusing on 'Transfer' and 'Cash 
 Performance: The model maintains a high accuracy rate while minimizing "False Positives" to avoid disrupting legitimate customer experiences.
 
 
-Data visualizations:
+# Data visualizations:
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0633ed0d-69b3-4240-8b49-517649080326" />
 
@@ -66,8 +69,8 @@ Data visualizations:
 <img width="616" height="537" alt="image" src="https://github.com/user-attachments/assets/1ba4cca4-b381-4a97-9fee-8f8b3c1e74f5" />
 
 
-💻 How to Use the App
-Access the live app here: http://192.168.1.16:8501
+# 💻App
+Access the live app here: https://financial-transaction-fraud-analysis-feyj8rzy2fepapnkmva9hm.streamlit.app/
 
 
 <img width="738" height="851" alt="image" src="https://github.com/user-attachments/assets/7c788b4e-a9fc-44ce-9299-60f04552a5e4" />
